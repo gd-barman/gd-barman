@@ -136,10 +136,13 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 
 ---
 
-## 🌐 Language Training
+## 🌐 Languages & Language Training
 
-- German Language Certificate Program (A1, 6 Months), Institute of Modern Languages (IML), SUST
-- French Language Certificate Program (A1, 6 Months), Institute of Modern Languages (IML), SUST
+- Bengali (Native)
+- English
+- German (A1), Institute of Modern Languages (IML), SUST
+- French (A1), Institute of Modern Languages (IML), SUST
+- Spanish (Beginner Level, Self-Learning)
 
 ---
 
