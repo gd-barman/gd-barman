@@ -8,37 +8,44 @@ I am a Research Associate at the Department of Civil and Environmental Engineeri
 
 My research focuses on:
 
-- Flood Modeling
+- Hydrology and Water Resources
+- Flood Modeling & Flood Inundation Mapping
 - Groundwater Modeling
-- Rainfall Prediction
-- Climate Change Impact Assessment
-- Remote Sensing and GIS
+- Rainfall Prediction & Climate Change
+- Remote Sensing & GIS
+- LiDAR Data Processing
+- UAV/Drone Mapping
 - Google Earth Engine (GEE)
-- GeoAI and Machine Learning
+- GeoAI & Machine Learning
 
 ## Current Projects
 
 - Flood Susceptibility Mapping of Sylhet City Corporation
-- CMIP6-Based Rainfall Prediction
+- CMIP6-Based Rainfall Prediction and Bias Correction
 - CAPE Downscaling using Machine Learning
-- Groundwater Modeling with MODFLOW 6
+- Groundwater Modeling using MODFLOW 6 and FloPy
 - Flood Frequency Analysis using FLIKE and HEC-SSP
-- NASA ARSET Trainings
+- Hydrologic Modeling using HEC-HMS
+- Hydraulic Modeling using HEC-RAS, Delft3D, and SFINCS
+- NASA ARSET Training Programs
 
 ## Tools & Technologies
 
-### Programming
-
-- Python
-- R
-- MATLAB
-
 ### GIS & Remote Sensing
-
 - ArcGIS Pro
 - QGIS
-- Google Earth Engine
+- Google Earth Engine (GEE)
 - SNAP
+
+### LiDAR & UAV Processing
+- PDAL
+- CloudCompare
+- LAStools
+- WhiteboxTools
+- OpenDroneMap (ODM)
+- WebODM
+- Agisoft Metashape
+- Pix4D
 
 ### Hydrology & Water Resources
 
@@ -49,12 +56,30 @@ My research focuses on:
 - EPANET
 - MODFLOW 6
 - FloPy
+- FLIKE
+- Delft3D
+- SFINCS
 
-### Machine Learning
+### Programming & Scientific Computing
+
+- Python
+- R
+- MATLAB
+- JavaScript (Google Earth Engine)
+- Jupyter Notebook
+- Fortran (Learning)
+- Julia (Learning)
+
+### Machine Learning & GeoAI
 
 - Scikit-Learn
 - TensorFlow
 - PyTorch
+- Random Forest (RF)
+- Support Vector Machine (SVM)
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Long Short-Term Memory (LSTM)
 
 ## Education
 
@@ -66,5 +91,10 @@ Shahjalal University of Science and Technology (SUST)
 - LinkedIn: https://linkedin.com/in/gd-barman
 - ORCID: https://orcid.org/0009-0004-8226-7645
 
+## Professional Memberships
+
+- Member, International Association of Hydrological Sciences (IAHS)
+- Student Member, ASCE Environmental & Water Resources Institute (EWRI)
+  
 ---
-⭐ Hydrology | Remote Sensing | GIS | Climate Change | GeoAI
+⭐ Hydrology | Groundwater | Flood Modeling | Remote Sensing | GIS | LiDAR | UAV Mapping | Climate Change | GeoAI
