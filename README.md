@@ -1,6 +1,6 @@
 # Hi there, I'm Gour Dhan Barman 👋
 
-### Research Associate | Hydrology • Water Resources • Remote Sensing • GeoAI
+### Research Associate | Hydrology • Water Resources • Earth Observation • GeoAI
 
 I am a Research Associate in the Department of Civil and Environmental Engineering at Shahjalal University of Science and Technology (SUST), Bangladesh.
 
@@ -17,7 +17,8 @@ My work focuses on integrating hydrology, remote sensing, GIS, climate science, 
 - Remote Sensing & GIS
 - LiDAR Processing
 - UAV/Drone Mapping
-- Google Earth Engine (GEE)
+- Earth Observation
+- Geospatial Data Science
 - GeoAI, Machine Learning & Deep Learning
 
 ---
@@ -31,7 +32,6 @@ My work focuses on integrating hydrology, remote sensing, GIS, climate science, 
 - Flood Frequency Analysis using FLIKE and HEC-SSP
 - Hydrologic Modeling using HEC-HMS
 - Hydraulic Modeling using HEC-RAS, Delft3D, and SFINCS
-- NASA ARSET Training Programs
 
 ---
 
@@ -127,7 +127,7 @@ My work focuses on integrating hydrology, remote sensing, GIS, climate science, 
 **B.Sc. in Civil & Environmental Engineering**
 Shahjalal University of Science and Technology (SUST), Bangladesh
 
-- Thesis: Rooftop Rainwater Harvesting System (RWHS) under Climate Change Scenarios
+- Thesis: Climate Change Impact Assessment and Rooftop Rainwater Harvesting System (RWHS) Feasibility Analysis
 - Research Focus: Hydrology, Groundwater, Climate Change, Remote Sensing
 
 ---
@@ -147,7 +147,17 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 - French (A1) – Certificate Program, Institute of Modern Languages (IML), SUST
 - Spanish (Beginner, Self-Learning)
 
----
+## 🏅 Certifications
+
+- NASA ARSET – Fundamentals of Remote Sensing (2026)
+- IAH – Groundwater Matters for Cooperation and in Multilateral Processes (2026)
+- SUST – Integrated Application of GIS and Remote Sensing (2022)
+- ITN-BUET & SUST – Groundwater Protection and Sanitation Seminar (2022)
+
+### Ongoing
+
+- Monitoring and Predicting Floods Using Earth Observations for Planning and Preparedness — NASA ARSET (2026)
+- Hyperspectral Data for Land and Coastal Systems — NASA ARSET (2026)
 
 ## 🌐 Connect With Me
 
