@@ -86,15 +86,15 @@ My research focuses on:
 **B.Sc. in Civil & Environmental Engineering**  
 Shahjalal University of Science and Technology (SUST)
 
-## Connect with Me
-
-- LinkedIn: https://linkedin.com/in/gd-barman
-- ORCID: https://orcid.org/0009-0004-8226-7645
-
 ## Professional Memberships
 
 - Member, International Association of Hydrological Sciences (IAHS)
 - Student Member, ASCE Environmental & Water Resources Institute (EWRI)
+  
+## Connect with Me
+
+- LinkedIn: https://linkedin.com/in/gd-barman
+- ORCID: https://orcid.org/0009-0004-8226-7645
   
 ---
 ⭐ Hydrology | Groundwater | Flood Modeling | Remote Sensing | GIS | LiDAR | UAV Mapping | Climate Change | GeoAI
