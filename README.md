@@ -161,8 +161,9 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 
 ## 🌐 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/gd-barman
-- ORCID: 0009-0004-8226-7645
+- LinkedIn: https://www.linkedin.com/in/gd-barman
+- ORCID: https://orcid.org/0009-0004-8226-7645
+- ResearchGate: https://www.researchgate.net/profile/Gour-Barman
 
 ---
 
