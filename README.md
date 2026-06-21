@@ -64,7 +64,7 @@ Shahjalal University of Science and Technology (SUST)
 ## Connect with Me
 
 - LinkedIn: https://linkedin.com/in/gd-barman
-- ORCID: https://orcid.org/0000-0003-3319-3366
+- ORCID: https://orcid.org/0009-0004-8226-7645
 
 ---
 ⭐ Hydrology | Remote Sensing | GIS | Climate Change | GeoAI
