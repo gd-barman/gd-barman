@@ -124,8 +124,11 @@ My work focuses on integrating hydrology, remote sensing, GIS, climate science, 
 
 ## 🎓 Education
 
-**B.Sc. in Civil & Environmental Engineering**  
+**B.Sc. in Civil & Environmental Engineering**
 Shahjalal University of Science and Technology (SUST), Bangladesh
+
+- Thesis: Rooftop Rainwater Harvesting System (RWHS) under Climate Change Scenarios
+- Research Focus: Hydrology, Groundwater, Climate Change, Remote Sensing
 
 ---
 
@@ -136,13 +139,13 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 
 ---
 
-## 🌐 Languages & Language Training
+## 🌐 Languages
 
 - Bengali (Native)
-- English
-- German (A1), Institute of Modern Languages (IML), SUST
-- French (A1), Institute of Modern Languages (IML), SUST
-- Spanish (Beginner Level, Self-Learning)
+- English (Professional Working Proficiency)
+- German (A1) – Certificate Program, Institute of Modern Languages (IML), SUST
+- French (A1) – Certificate Program, Institute of Modern Languages (IML), SUST
+- Spanish (Beginner, Self-Learning)
 
 ---
 
