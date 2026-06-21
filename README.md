@@ -33,6 +33,7 @@ My research focuses on:
 
 ### GIS & Remote Sensing
 - ArcGIS Pro
+- ArcMap 10.8
 - QGIS
 - Google Earth Engine (GEE)
 - SNAP
