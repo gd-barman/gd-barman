@@ -136,6 +136,13 @@ Shahjalal University of Science and Technology (SUST), Bangladesh
 
 ---
 
+## 🌐 Language Training
+
+- German Language Course (A1), Institute of Modern Languages (IML), SUST
+- French Language Course (A1), Institute of Modern Languages (IML), SUST
+
+---
+
 ## 🌐 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/gd-barman
