@@ -1,4 +1,4 @@
-# Hi, I'm Gour Dhan Barman 👋
+# Hi there, I'm Gour Dhan Barman 👋
 
 ### Research Associate | Hydrology • Water Resources • Remote Sensing • GeoAI
 
