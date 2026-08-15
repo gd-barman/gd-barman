@@ -2,7 +2,7 @@
 
 ### Research Associate | Hydrology • Water Resources • Earth Observation • GeoAI
 
-I am a Research Associate in the Department of Civil and Environmental Engineering at Shahjalal University of Science and Technology (SUST), Bangladesh.
+I am a Research Associate in the Shahjalal University of Science and Technology (SUST) Research Centre, Bangladesh.
 
 My work focuses on integrating hydrology, remote sensing, GIS, climate science, and GeoAI to support flood risk assessment, groundwater sustainability, and climate adaptation research.
 
